@@ -1,4 +1,4 @@
-# Magento 2 LLMs TXT Generator | Visibility in AI Search
+# [Magento 2 LLMs TXT Generator](https://magefan.com/magento-2-llms-txt-generator) by Magefan
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/a1683bce6f623be8eb25d859e5ca6d6f/i/c/icon-llms.webp">
 
